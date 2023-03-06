@@ -1,0 +1,15 @@
+C:\Users\User\Game Development\Code-Notebook\Pracriis\bin\Debug\net6.0\Pracriis.exe
+C:\Users\User\Game Development\Code-Notebook\Pracriis\bin\Debug\net6.0\Pracriis.deps.json
+C:\Users\User\Game Development\Code-Notebook\Pracriis\bin\Debug\net6.0\Pracriis.runtimeconfig.json
+C:\Users\User\Game Development\Code-Notebook\Pracriis\bin\Debug\net6.0\Pracriis.dll
+C:\Users\User\Game Development\Code-Notebook\Pracriis\bin\Debug\net6.0\Pracriis.pdb
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\Pracriis.csproj.AssemblyReference.cache
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\Pracriis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\Pracriis.AssemblyInfoInputs.cache
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\Pracriis.AssemblyInfo.cs
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\Pracriis.csproj.CoreCompileInputs.cache
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\Pracriis.dll
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\refint\Pracriis.dll
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\Pracriis.pdb
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\Pracriis.genruntimeconfig.cache
+C:\Users\User\Game Development\Code-Notebook\Pracriis\obj\Debug\net6.0\ref\Pracriis.dll
